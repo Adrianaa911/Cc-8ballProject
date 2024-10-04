@@ -3,11 +3,8 @@
 let userName = "";
 
 //task2
-if (userName === ''){
-  console.log("Hello" + userName + '!')
-} else {
-console.log ("Hello")
-}
+userName ? console.log(`Hello, ${userName}`) : console.log('Hello!');
+//if the userName has a string(name) will print 'Hello -name-', if not will print 'Hello!'
 
 //task3
 const userQuestion = "";
