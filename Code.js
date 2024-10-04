@@ -47,4 +47,19 @@ switch(randomNumber) {
 }
 
   console.log(`The Magic 8 Ball says, ${eightBall}.`);
+
+
+ //task 8 - Write a console.log() to print the Magic Eight Ball’s answer, the value of the eightBall variable
+  console.log(`The Magic 8 Ball says, ${eightBall}.`);
+
+  //task 9 Run your program a few times to see random results appear in the console!
+ 
+
+  
+
+
+
+
+
+
  
