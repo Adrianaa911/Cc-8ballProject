@@ -13,7 +13,7 @@ let userQuestion = "Will I have a good day today?";
 console.log(`${userName} has asked - ${userQuestion}`);
 
 //task5
-let randomNumber = Math.random ()* 8;
+let randomNumber = Math.floor(Math.random ()* 8);
 console.log(randomNumber);
 
 //task6
