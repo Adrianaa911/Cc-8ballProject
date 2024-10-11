@@ -1,3 +1,5 @@
+Step by Step
+
 //task 1 In the first line of the program, define a variable called userName that is set to an empty string.
 
 let userName = "Adriana";
